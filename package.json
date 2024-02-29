@@ -6,7 +6,6 @@
   "homepage": "http://btran418.github.io/gh-pages-demo",
   "scripts": {
     "deploy": "gh-pages -d build",
-    "start": "vite",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
